@@ -19,7 +19,7 @@
 # full_name = first_name + " " + last_name
 # print("Hello,",full_name+"!", "Welcome to the Python program.")
 
-w
+
 #Assignment 2
 #Task 1
 # num = int(input("Enter Your Number : "))
