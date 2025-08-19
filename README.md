@@ -14,3 +14,21 @@ Task 2: Create a Personalized Greeting
 1. Created 2 variables asking first and last name as an input from user.
 2. Created a variable as a full_name to concatenate first and last name
 3. Printed the statement with greeting.
+
+
+ASSIGNMENT 2:
+Module 3: Control Structures in Python
+ 
+Task 1: Check if a Number is Even or Odd
+
+*****Solution: 
+1. Created num variable to take input from user and store.
+2. With if else statement, first check the input is even or not by giving getting remainder 0 using modulus operator.
+3. If remainder is 0 printed Even else printed Odd.
+
+Task 2: Sum of Integers from 1 to 50 Using a Loop
+*****Solution:
+1. Created num variable and stored the value to add and sum variable initiated with 0.
+2. Initiated for loop and given a range to num+1.
+3. Inside for loop given a statement to add and store the value in sum.
+4. Printed as the final output stored.
