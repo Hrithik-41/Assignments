@@ -34,3 +34,14 @@
 # for i in range(num+1):
 #     sum += i
 # print(sum)
+
+
+#Assignment 3
+#Task 1
+# num = int(input("Enter a number : "))
+# def factorial(num):
+#     if num < 2:
+#         return 1
+#     else:
+#         return num * factorial(num - 1)
+# print("Factorial of", num, "is", factorial(num))
