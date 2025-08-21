@@ -20,6 +20,7 @@
 # print("Hello,",full_name+"!", "Welcome to the Python program.")
 
 
+
 #Assignment 2
 #Task 1
 # num = int(input("Enter Your Number : "))
@@ -36,12 +37,20 @@
 # print(sum)
 
 
+
 #Assignment 3
 #Task 1
-# num = int(input("Enter a number : "))
-# def factorial(num):
-#     if num < 2:
-#         return 1
-#     else:
-#         return num * factorial(num - 1)
-# print("Factorial of", num, "is", factorial(num))
+'''num = int(input("Enter a number : "))
+def factorial(num):
+    if num < 2:
+        return 1
+    else:
+        return num * factorial(num - 1)
+print("Factorial of", num, "is", factorial(num))'''
+
+#Task 2
+'''import math
+num = float(input("Enter Your Number : "))
+print("Square Root :", math.sqrt(num))
+print("Logarithm :", math.log(num))
+print("Sine :", math.sin(num))'''
