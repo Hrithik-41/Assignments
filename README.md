@@ -54,3 +54,22 @@ Task 2: Using the Math Module for Calculations
 1. imported math module.
 2. Created num variable to take input from user and store as a float.
 3. Using multiple math function's printed the log, sine and square root of the number.
+
+
+
+ASSIGNMENT 4:
+Module 5: Files, Exceptions, and Errors in Python
+
+Task 1: Read a File and Handle Errors
+
+*****Solution:
+1. Used error handling method, inside try created file variable and opened .txt file and read.
+2. In except if the error hits printed the text.
+
+Task 2: Write and Append Data to a File
+
+*****Solution:
+1. Created a variable name text and stored the input from user.
+2. open file and wrote the input from the user inside the text file.
+3. Same with next but appended the input from the user inside the text so that previous text will remain.
+4. Next read the file and preinted the full content inside the file.
